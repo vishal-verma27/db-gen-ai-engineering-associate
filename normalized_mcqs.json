@@ -1,0 +1,1698 @@
+[
+{
+"question": "Which of the following is an example of supervised learning?",
+"options": {
+"A": "Clustering customer preferences",
+"B": "Predicting house prices based on features",
+"C": "Generating random images",
+"D": "Sorting emails randomly"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "In unsupervised learning, the algorithm tries to:",
+"options": {
+"A": "Learn the output labels from the input data",
+"B": "Cluster similar data points together",
+"C": "Perform tasks without any data",
+"D": "Learn with labeled datasets"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is the term for the data that a machine learning model uses to learn patterns?",
+"options": {
+"A": "Training data",
+"B": "Test data",
+"C": "Validation data",
+"D": "Raw data"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which algorithm is commonly used for classification problems?",
+"options": {
+"A": "Linear Regression",
+"B": "K-Means Clustering",
+"C": "Decision Trees",
+"D": "Gradient Descent"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "Which machine learning algorithm is best suited for predicting continuous values?",
+"options": {
+"A": "K-Nearest Neighbors",
+"B": "Support Vector Machines",
+"C": "Linear Regression",
+"D": "Naive Bayes"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "You are building a GPT-based chat application that will answer questions about your company.\nWhich three prompt engineering strategies should you consider while testing the application?",
+"options": {
+"A": "Be Descriptive",
+"B": "Be Speicfic",
+"C": "Order Matters",
+"D": "Be simple",
+"E": "Be minimalistic"
+},
+"answer": "A,B,C",
+"question_type": "more_than_one_correct"
+},
+{
+"question": "What does the term \"prompt\" refer to?",
+"options": {
+"A": "A prompt is a pre-trained generative AI model that serves as a starting point for fine-tuningand customizing the generation of specific types of content.",
+"B": "A prompt is a lengthy piece of text utilized to debug the large language model.",
+"C": "A prompt is a brief piece of text provided to the large language model as input, which can influence the model's output in various ways.",
+"D": "A prompt is a brief piece of text used in the training of the large language model."
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "What does the term 'Transformer' model refer to in the context of Generative AI?",
+"options": {
+"A": "A model that converts different data types",
+"B": "A neural network architecture that excels in processing sequential data",
+"C": "A model designed for transforming images",
+"D": "An algorithm for data compression"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What does the 'chain of thought' prompting strategy involve?",
+"options": {
+"A": "Generating a sequence of logical steps to solve a problem",
+"B": "Linking data points in a blockchain",
+"C": "Categorizing thoughts based on complexity",
+"D": "Strengthening neural connections in the AI"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What does \"zero-shot prompting\" mean in Generative AI?",
+"options": {
+"A": "Training the model from scratch",
+"B": "Providing instructions without examples",
+"C": "Asking the model to improve its own prompt",
+"D": "Using the model for image generation"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What does \"few-shot prompting\" involve?",
+"options": {
+"A": "Training the model with minimal data",
+"B": "Including a few examples in the prompt to guide the response",
+"C": "Generating text in a limited number of iterations",
+"D": "Using short prompts exclusively"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which Generative AI model is specifically designed for image generation?",
+"options": {
+"A": "GPT-3.5",
+"B": "DALL·E",
+"C": "BERT",
+"D": "YOLO"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following is an example of a \"role-based prompt\"?",
+"options": {
+"A": "Summarize the following text.",
+"B": "Act as a financial advisor and provide investment tips.",
+"C": "What is the capital of France?",
+"D": "Generate a list of random numbers."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is one challenge associated with open-ended prompts?",
+"options": {
+"A": "They generate irrelevant or overly broad responses",
+"B": "They produce outputs that are too concise",
+"C": "They limit the model’s ability to be creative",
+"D": "They require extensive computational power"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which is an example of a \"creative prompt\"?",
+"options": {
+"A": "Generate an image caption for a sunset over a mountain.",
+"B": "Summarize this legal document in one sentence.",
+"C": "Provide a step-by-step solution to this math problem.",
+"D": "Translate this sentence into French."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What does GPT stand for in Generative AI?",
+"options": {
+"A": "Generalized Processing Technique",
+"B": "Generative Pre-trained Transformer",
+"C": "General Purpose Tool",
+"D": "Generative Prediction Technology"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Why is \"prompt engineering\" important in Generative AI?",
+"options": {
+"A": "To optimize hardware performance",
+"B": "To ensure the AI generates accurate and relevant responses",
+"C": "To reduce the size of the model",
+"D": "To analyze existing datasets"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following applications uses Generative AI?",
+"options": {
+"A": "Chatbots like ChatGPT",
+"B": "Image generators like DALL·E",
+"C": "Voice synthesis tools",
+"D": "All of the above"
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following is an ethical challenge for Generative AI?",
+"options": {
+"A": "Generating biased or harmful content",
+"B": "Lack of computational resources",
+"C": "Limited application areas",
+"D": "Inability to understand inputs"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "A writer wants to use Generative AI to help draft a screenplay for a science fiction movie. What prompt would produce the most creative and detailed script ideas?",
+"options": {
+"A": "Write a science fiction story.",
+"B": "Draft a screenplay for a science fiction movie about time travel, featuring a conflict between two civilizations.",
+"C": "Write something interesting about time travel.",
+"D": "Give me ideas for a movie."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is the primary use of the displacy module in spaCy?",
+"options": {
+"A": "To generate word clouds",
+"B": "To perform text normalization",
+"C": "To visualize dependency parses and named entities",
+"D": "To create and train machine learning models"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "An e-commerce company wants to analyze product reviews and identify key product features based on nouns (e.g., \"battery,\" \"screen\"). They decide to use POS tagging in spaCy to filter out nouns from the text.\nWhich POS tag should they filter for using spaCy to capture these nouns?",
+"options": {
+"A": "NOUN",
+"B": "VERB",
+"C": "ADJ",
+"D": "DET"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "In spaCy, what does the ents attribute of a Doc object represent?",
+"options": {
+"A": "A list of tokens",
+"B": "Named entities in the text",
+"C": "Dependency relations",
+"D": "Part-of-speech tags"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is displaCy in spaCy used for?",
+"options": {
+"A": "Visualizing dependency parsing and named entities",
+"B": "Performing part-of-speech tagging",
+"C": "Tokenizing text",
+"D": "Generating word embeddings"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What does token.pos_ return in spaCy?",
+"options": {
+"A": "Coarse-grained POS tag (e.g., NOUN, VERB, ADJ)",
+"B": "Fine-grained POS tag (e.g., VBZ, NN)",
+"C": "Token's lemma",
+"D": "Named entity type"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which function is used to load a language model in spaCy?",
+"options": {
+"A": "spacy.load()",
+"B": "spacy.language()",
+"C": "spacy.model()",
+"D": "spacy.pipeline()"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "A user wants a generative AI model to prioritize specific keywords and terminology in the output. How should the prompt be modified to enhance the model's attention to these terms?",
+"options": {
+"A": "Introduce the keywords explicitly in the prompt, and repeat them if necessary to reinforce importance.",
+"B": "Begin the prompt with the keywords, leaving additional context minimal.",
+"C": "Avoid explicit mention of keywords, allowing the model to infer their importance.",
+"D": "Use a longer, detailed prompt with keywords embedded sporadically."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is a key intuition behind LLMs?",
+"options": {
+"A": "They use rule-based programming for natural language processing.",
+"B": "They model language as a probabilistic sequence of words.",
+"C": "They rely on fixed feature extraction.",
+"D": "They optimize for structured database queries."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is a dense layer in a neural network?",
+"options": {
+"A": "A convolutional layer with filters",
+"B": "A fully connected layer where each neuron connects to every neuron in the next layer",
+"C": "A layer designed specifically for sequence processing",
+"D": "A pooling layer for dimensionality reduction."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "In the code snippet, what does keras.layers.Dense(8, activation='relu') represent?",
+"options": {
+"A": "A layer with 8 neurons using ReLU activation",
+"B": "A dropout layer with ReLU activation",
+"C": "A fully connected layer with a sigmoid function",
+"D": "A convolutional layer with 8 filters"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is a task head in deep learning?",
+"options": {
+"A": "A preprocessing layer for feature extraction",
+"B": "A final layer or set of layers designed for a specific task (e.g., classification, regression)",
+"C": "A hidden layer used for feature selection",
+"D": "A layer for managing memory in LSTMs"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer has deployed an LLM-based application to assist employees with inquiries regarding company policies. The engineer needs to ensure that the system does not generate incorrect information (hallucinations) or reveal sensitive internal data.\nWhich strategy would be LEAST effective in preventing hallucinations and protecting confidential data?",
+"options": {
+"A": "Implement access controls to restrict the LLM's access to sensitive data based on the user's role.",
+"B": "Use a system prompt that clearly instructs the LLM on the boundaries of acceptable responses.",
+"C": "Regularly update the model's training data with the latest company policies to reduce the chances of outdated or incorrect information.",
+"D": "Apply post-processing filters to review and modify the LLM's outputs before they are displayed to the user."
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer is designing a chatbot for a mental health support application. The chatbot should distinguish between urgent and non-urgent mental health concerns. For non-urgent concerns, it should gather more information and offer helpful resources. If the user expresses an urgent concern, the chatbot should immediately advise contacting emergency services.\nUser input: \"I've been feeling extremely depressed and just don't see a way out anymore.\"\nWhich response would be most appropriate for the chatbot to give?",
+"options": {
+"A": "I’m sorry to hear that. Let’s talk more about what’s been bothering you lately.",
+"B": "Depression can be tough. Here’s a helpful article that might offer some perspective.",
+"C": "Please reach out to emergency services or a mental health professional immediately.",
+"D": "Could you describe how long you’ve been feeling this way and if there are any specific triggers?"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "What is the purpose of the activation function in a neural network?",
+"options": {
+"A": "To scale the input features",
+"B": "To introduce non-linearity into the model",
+"C": "To remove bias in the training data",
+"D": "To normalize the data"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What does the softmax layer in an MNIST classifier do?",
+"options": {
+"A": "Encodes the input into higher dimensions",
+"B": "Computes probabilities for each class",
+"C": "Normalizes the input features",
+"D": "Reduces the dimensionality of the image"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which evaluation metric is most commonly used for MNIST classification?",
+"options": {
+"A": "Mean Absolute Error",
+"B": "Dice Coefficient",
+"C": "Accuracy",
+"D": "SSIM Index"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+
+{
+"question": "What is the primary use of embeddings in Generative AI models?",
+"options": {
+"A": "Image compression",
+"B": "Representing data in a high-dimensional space",
+"C": "Converting discrete data into dense vector representations",
+"D": "Executing traditional rule-based algorithms"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "A user wants a generative AI model to prioritize specific keywords and terminology in the output. How should the prompt be modified to enhance the model's attention to these terms?",
+"options": {
+"A": "Introduce the keywords explicitly in the prompt, and repeat them if necessary to reinforce importance.",
+"B": "Begin the prompt with the keywords, leaving additional context minimal.",
+"C": "Avoid explicit mention of keywords, allowing the model to infer their importance.",
+"D": "Use a longer, detailed prompt with keywords embedded sporadically."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is a learned embedding matrix in a neural network?",
+"options": {
+"A": "A static, predefined lookup table",
+"B": "A trainable matrix that maps input indices to dense vectors",
+"C": "A matrix used for gradient updates only",
+"D": "A matrix used for weight regularization"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "How are vectors in neural networks used to represent input features?",
+"options": {
+"A": "As dense numerical arrays",
+"B": "As sparse one-hot representations",
+"C": "As scalar values",
+"D": "As probability distributions"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Why is padding required when working with variable-length sequences in neural networks?",
+"options": {
+"A": "To improve computational speed",
+"B": "To ensure all sequences have the same length for batch processing",
+"C": "To eliminate overfitting",
+"D": "To reduce memory usage"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which activation function is typically used in the final layer for binary classification?",
+"options": {
+"A": "ReLU",
+"B": "Tanh",
+"C": "Sigmoid",
+"D": "Softmax"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "In which part of the model is the embedding layer typically used?",
+"options": {
+"A": "At the input layer to convert categorical data into dense vectors",
+"B": "At the output layer to classify data",
+"C": "Between Dense layers to reduce overfitting",
+"D": "After pooling layers for dimensionality reduction"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+
+{
+"question": "In the encoder-decoder architecture, what role does the decoder play?",
+"options": {
+"A": "It compresses the input into a latent representation.",
+"B": "It translates the input sequence into a different language.",
+"C": "It generates the output sequence based on the encoder's context vector.",
+"D": "It preprocesses the input text before passing it to the encoder."
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "What is the primary benefit of using Databricks Runtime for Machine Learning in generative AI tasks?",
+"options": {
+"A": "It supports multiple programming languages simultaneously.",
+"B": "It includes optimized libraries and frameworks for deep learning and generative AI.",
+"C": "It simplifies the deployment of models to REST APIs.",
+"D": "It allows non-programmers to train models without code."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which evaluation strategy is being used in the training configuration?",
+"options": {
+"A": "Steps",
+"B": "Epoch",
+"C": "Continuous",
+"D": "None"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What does the term 'Zero-Shot Learning' refer to in Large Language Models (LLMs)?",
+"options": {
+"A": "Training the model with zero data",
+"B": "The ability of an LLM to perform tasks without prior task-specific training",
+"C": "Using a model only after extensive fine-tuning",
+"D": "A model that has zero parameters"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which component of a Zero-Shot pipeline is responsible for converting a natural language query into a structured format for inference?",
+"options": {
+"A": "Tokenizer",
+"B": "Attention mechanism",
+"C": "Embedding layer",
+"D": "Output decoder"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "How does a Zero-Shot model differ from a Fine-Tuned model?",
+"options": {
+"A": "Zero-Shot models require additional training before inference",
+"B": "Fine-Tuned models can handle more diverse tasks than Zero-Shot models",
+"C": "Zero-Shot models use general pre-trained knowledge to make inferences on unseen tasks",
+"D": "Fine-Tuned models generate output without any additional training"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "Why are CLS and SEP tokens often heavily attended to in BERT models?",
+"options": {
+"A": "They have predefined embeddings with high similarity",
+"B": "They contain summarization and contextual separation information",
+"C": "They are required for gradient flow",
+"D": "They prevent overfitting in attention heads"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following is a key advantage of using transformer-based pipelines for NLP tasks?",
+"options": {
+"A": "They generalize well to unseen data without additional training",
+"B": "They require manually defining grammar rules",
+"C": "They are only useful for translation tasks",
+"D": "They do not require large datasets for training"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which model type is best suited for performing sentiment analysis in a zero-shot setting?",
+"options": {
+"A": "Pre-trained transformer-based model fine-tuned on emotion classification",
+"B": "Rule-based sentiment classifier",
+"C": "Character-level language model",
+"D": "Traditional bag-of-words classifier"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What does the ‘context’ input in a QA pipeline represent?",
+"options": {
+"A": "A predefined list of answers the model can choose from",
+"B": "The reference text from which the model extracts the answer",
+"C": "A training dataset required for fine-tuning the model",
+"D": "A metadata field that describes the model’s performance"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+
+{
+"question": "In the self-attention mechanism, the output is computed using three learned matrices: Query (Q), Key (K), and Value (V). What is the primary role of the Key (K)?",
+"options": {
+"A": "It helps determine the relevance of input tokens with respect to the query",
+"B": "It stores the output representation of each token",
+"C": "It is responsible for computing the final output vector",
+"D": "It applies an activation function to the attention weights"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "The attention scores in self-attention are computed using which mathematical operation?",
+"options": {
+"A": "Matrix multiplication of Query (Q) and Key (K)",
+"B": "Addition of Query (Q) and Key (K)",
+"C": "Concatenation of Query (Q) and Key (K)",
+"D": "Subtraction of Query (Q) from Key (K)"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Why is multi-head attention used in Transformer models?",
+"options": {
+"A": "To parallelize the attention mechanism and capture multiple aspects of the input",
+"B": "To reduce the number of layers in the model",
+"C": "To replace the feed-forward layers in the network",
+"D": "To improve weight initialization in deep networks"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is the primary difference between BERT and traditional Transformer models?",
+"options": {
+"A": "BERT is an encoder-only model trained bidirectionally, while Transformers use both encoder and decoder",
+"B": "BERT does not use attention mechanisms",
+"C": "BERT processes sequences one token at a time",
+"D": "BERT is designed only for sequence classification"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "In an encoder-decoder architecture, what is the role of the encoder?",
+"options": {
+"A": "It generates the final output sequence",
+"B": "It processes the input sequence and generates a context vector",
+"C": "It directly translates words from one language to another",
+"D": "It updates the attention weights"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is a key advantage of using subword tokenization (e.g., WordPiece)?",
+"options": {
+"A": "It allows handling of unknown words and rare tokens efficiently",
+"B": "It eliminates the need for positional encoding",
+"C": "It reduces the need for large datasets in training",
+"D": "It makes Transformer models process sequences sequentially"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "In a sequence classification task using Transformers, what is typically added on top of the encoder output?",
+"options": {
+"A": "A classification head (fully connected layer)",
+"B": "A convolutional layer",
+"C": "A recurrent neural network",
+"D": "Another attention layer"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is the significance of positional encodings in Transformer models?",
+"options": {
+"A": "They help the model understand the order of tokens in a sequence",
+"B": "They reduce the need for embeddings",
+"C": "They replace the need for multi-headed attention",
+"D": "They make the model computationally less expensive"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which metric is typically used to visualize angular relationships between embeddings?",
+"options": {
+"A": "Dot product similarity",
+"B": "Cosine similarity",
+"C": "Scaled softmax attention",
+"D": "Mean squared error"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following best describes the feed-forward network in Transformer models?",
+"options": {
+"A": "It applies a non-linear transformation to each token representation",
+"B": "It calculates attention scores for all tokens",
+"C": "It replaces embeddings in the model",
+"D": "It ensures tokenization consistency"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+
+{
+"question": "Which of the following MLflow components is used for logging model parameters, metrics, and artifacts?",
+"options": {
+"A": "MLflow Tracking",
+"B": "MLflow Models",
+"C": "MLflow Projects",
+"D": "MLflow Registry"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following best describes the use of MLflow in fine-tuning GPT-based models?",
+"options": {
+"A": "MLflow is only used for hyperparameter tuning",
+"B": "MLflow allows tracking experiments, logging metrics, and deploying fine-tuned models",
+"C": "MLflow replaces the need for a tokenizer",
+"D": "MLflow is not compatible with transformer models"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "In Databricks, which framework is commonly used for NLP tasks in Generative AI?",
+"options": {
+"A": "TensorFlow",
+"B": "PyTorch",
+"C": "Hugging Face Transformers",
+"D": "Scikit-learn"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "What is a key challenge of prompt engineering in Generative AI?",
+"options": {
+"A": "Ensuring model scalability",
+"B": "Generating accurate data insights",
+"C": "Crafting precise and context-aware prompts",
+"D": "Reducing model size"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "A company is using MLflow to track and manage different versions of a GPT-based model for text summarization. What would be the best MLflow component to keep track of different versions of the model?",
+"options": {
+"A": "MLflow Tracking",
+"B": "MLflow Projects",
+"C": "MLflow Model Registry",
+"D": "MLflow Experiment"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "Your ML model is experiencing concept drift after deployment. The chatbot powered by GPT-2 was performing well, but now it gives outdated responses due to changes in user queries. What should you do?",
+"options": {
+"A": "Retrain the model on newer data and register a new version",
+"B": "Increase the batch size during inference",
+"C": "Use the same old model because concept drift is unavoidable",
+"D": "Disable padding in tokenization"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "A data science team has deployed multiple versions of a text-generation model in MLflow Model Registry. They want to automate deployment of the best model based on validation performance. Which approach should they use?",
+"options": {
+"A": "Manually select the best model for deployment",
+"B": "Use MLflow’s built-in model comparison feature and set up an automatic deployment pipeline",
+"C": "Randomly choose a model version for production",
+"D": "Remove all previous models from Model Registry and deploy the latest one"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is the key advantage of using Delta Lake over standard data formats in ML pipelines?",
+"options": {
+"A": "Delta Lake supports ACID transactions, ensuring data integrity",
+"B": "Delta Lake automatically fine-tunes models",
+"C": "Delta Lake enables multi-GPU training for transformer models",
+"D": "Delta Lake provides a built-in tokenizer for NLP tasks"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Why is the pad_token manually added to the tokenizer in GPT-2 fine-tuning?",
+"options": {
+"A": "GPT-2 does not have a default padding token, so it must be added for batch processing",
+"B": "It improves model accuracy by reducing token length",
+"C": "It allows the model to handle long input sequences",
+"D": "It replaces stop words in the dataset"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is the next logical step after model registration if you want to deploy it as an API?",
+"options": {
+"A": "Use MLflow Model Serving to create an endpoint for real-time inference",
+"B": "Re-train the model on a larger dataset",
+"C": "Manually export the model and serve it with Flask",
+"D": "Modify the tokenizer settings"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+
+{
+"question": "What is the role of the retrieval step in a RAG application?",
+"options": {
+"A": "To directly answer user questions without LLM intervention",
+"B": "To provide hardcoded responses for common queries",
+"C": "To query external information sources to obtain supporting data",
+"D": "To train the LLM on new data in real-time"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "In a chat completion model, how can the 'system' prompt be utilized to enforce a specific style or personality across responses?",
+"options": {
+"A": "The system prompt sets the model's persona by establishing general instructions about tone and style at the start, affecting the responses consistently.",
+"B": "The system prompt is used to filter out offensive content only and has no stylistic impact.",
+"C": "System prompts increase response latency, so they are best avoided in style-specific tasks.",
+"D": "Only user prompts determine response style, while the system prompt affects structure minimally."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which metric is typically used to visualize angular relationships between embeddings?",
+"options": {
+"A": "Dot product similarity",
+"B": "Cosine similarity",
+"C": "Scaled softmax attention",
+"D": "Mean squared error"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "In the context of NLP, what is the advantage of representing words as vectors in a high-dimensional space, and how does cosine similarity help in understanding relationships between words?",
+"options": {
+"A": "Vectors capture syntactic relationships, while cosine similarity measures semantic similarity, helping models group words with similar meanings.",
+"B": "Vectors are only used for sentence structures, not individual words, and cosine similarity enables comparison.",
+"C": "Vector representations reduce dimensionality, allowing models to ignore word relationships.",
+"D": "Vectors capture contextual meaning, while cosine similarity allows comparison of word distances by measuring the angle between vectors, identifying words with similar semantic contexts."
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "When deploying a RAG model for open-domain question answering, which approach would help ensure the retriever finds documents even for unique or rarely asked questions?",
+"options": {
+"A": "Implement few-shot prompting in the retriever prompt, providing diverse query examples to enhance retrieval of unique topics.",
+"B": "Limit retrieval to commonly asked questions.",
+"C": "Remove document embeddings to generalize retrieval.",
+"D": "Exclude unique terms from the query to focus on popular topics."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "How would you handle missing embeddings in a vector database pipeline?",
+"options": {
+"A": "Re-generate embeddings using a pre-trained model.",
+"B": "Use cosine similarity to approximate missing embeddings.",
+"C": "Remove the corresponding entries from the database.",
+"D": "Aggregate existing embeddings using mean pooling."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "In Databricks, what is the best way to ensure reproducibility of generative AI experiments?",
+"options": {
+"A": "Enable Delta Sharing for datasets.",
+"B": "Log all model parameters and metrics using MLFlow.",
+"C": "Use Unity Catalog to manage model versions.",
+"D": "Use pre-trained transformer models for all pipelines"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "You are designing a RAG pipeline for a global retail company to retrieve personalized recommendations for millions of customers. The pipeline uses a vector database for fast retrieval. After deploying the pipeline, you notice retrieval performance drops during peak hours. Which optimization approach should you consider first to handle the performance drop?",
+"options": {
+"A": "Increase the dimensionality of the embeddings",
+"B": "Use a scalable, distributed vector database",
+"C": "Switch to Euclidean distance instead of cosine similarity",
+"D": "Reduce the batch size during inference"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is the impact of token size on the performance of generative AI models?",
+"options": {
+"A": "Larger token sizes reduce inference time.",
+"B": "Smaller token sizes improve training efficiency.",
+"C": "Incorrect token size can lead to context loss in outputs.",
+"D": "Token size has no significant impact on model performance."
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "What distinguishes Natural Language Generation (NLG) from standard NLP tasks?",
+"options": {
+"A": "NLG focuses on data classification.",
+"B": "NLG involves creating new text rather than analyzing existing text.",
+"C": "NLG models are trained only on unstructured data.",
+"D": "NLG requires a fixed set of input prompts."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+
+{
+"question": "What type of data is stored in a vector database?",
+"options": {
+"A": "Numerical Representations",
+"B": "Text Documents",
+"C": "Structured Tables",
+"D": "Raw Images"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "You notice that your RAG system retrieves large document chunks, making responses inaccurate. What’s the best approach?",
+"options": {
+"A": "Reduce chunk size and use overlapping sliding windows",
+"B": "Remove chunking and index full documents",
+"C": "Increase chunk size to improve LLM context",
+"D": "Use a static chunking approach without overlap"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What happens during the augmentation step of a RAG application?",
+"options": {
+"A": "The LLM retrains on new data",
+"B": "The retrieved data is ignored",
+"C": "The retrieved data is combined with the user's request",
+"D": "The retrieved data is stored for future use"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "What is the purpose of user query preprocessing in the RAG chain?",
+"options": {
+"A": "To generate the final response from the LLM",
+"B": "To embed chunks into a vector database",
+"C": "To make the user's query more suitable for querying the vector database",
+"D": "To add citations to the generated response"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "What is the primary distinction between a chain and an agent in AI systems?",
+"options": {
+"A": "Chains are hardcoded sequences of steps, whereas agents use LLMs to make decisions",
+"B": "Chains are dynamic and learn from data",
+"C": "Chains use external data retrieval",
+"D": "Chains are simpler systems that only summarize responses"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is the benefit of overlap between chunks in a RAG pipeline?",
+"options": {
+"A": "It preserves context between adjacent chunks.",
+"B": "It reduces chunk size.",
+"C": "It speeds up retrieval.",
+"D": "It simplifies document parsing."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is one advantage of Retrieval-Augmented Generation (RAG) over traditional LLMs?",
+"options": {
+"A": "It allows LLMs to answer domain-specific questions by augmenting them with proprietary data",
+"B": "It reduces the cost of LLM token usage",
+"C": "It allows LLMs to perform fine-tuning on proprietary data",
+"D": "It simplifies the LLM training process"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What happens if chunk sizes are too large during the RAG pipeline?",
+"options": {
+"A": "They may contain multiple, unrelated topics, leading to inaccurate embeddings",
+"B": "They increase query speed",
+"C": "They generate cleaner embeddings for improved retrieval",
+"D": "They prevent the LLM from hallucinating during generation"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "A user wants a generative AI model to prioritize specific keywords and terminology in the output. How should the prompt be modified to enhance the model's attention to these terms?",
+"options": {
+"A": "Introduce the keywords explicitly in the prompt, and repeat them if necessary to reinforce importance.",
+"B": "Begin the prompt with the keywords, leaving additional context minimal.",
+"C": "Avoid explicit mention of keywords, allowing the model to infer their importance.",
+"D": "Use a longer, detailed prompt with keywords embedded sporadically."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Your RAG chatbot needs to provide personalized responses based on user history. How do you achieve this?",
+"options": {
+"A": "Store user interactions and re-rank retrieved results based on context",
+"B": "Rely on static retrieval without personalization",
+"C": "Use a generic LLM prompt without retrieval",
+"D": "Reduce the vector search space"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which NLP model architecture is widely used in modern language processing tasks like translation and text generation?",
+"options": {
+"A": "CNN",
+"B": "RNN",
+"C": "Transformer",
+"D": "KNN"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "Which pre-trained model uses an encoder-only architecture?",
+"options": {
+"A": "GPT-3",
+"B": "BERT",
+"C": "DALL-E",
+"D": "GAN"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is the main difference between encoder and decoder models in NLP?",
+"options": {
+"A": "Encoders generate new text, while decoders classify text",
+"B": "Encoders process input text, while decoders generate output text",
+"C": "Encoders and decoders are the same in function",
+"D": "Decoders are only used for speech recognition"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "In MLflow, what is a key feature that allows tracking of model experiments?",
+"options": {
+"A": "AutoML",
+"B": "Model Registry",
+"C": "Loss Function Monitoring",
+"D": "TensorFlow Serving"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "If you need an LLM to answer real-time financial questions accurately, which method would be most effective?",
+"options": {
+"A": "Train a new transformer model from scratch",
+"B": "Use a RAG model that retrieves updated financial information",
+"C": "Use a pre-trained GPT model without external data",
+"D": "Use sentiment analysis instead of a generative model"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What happens when chunk sizes are too small in a RAG chain?",
+"options": {
+"A": "Retrieval context is lost, resulting in incomplete information",
+"B": "Query time is reduced",
+"C": "The vector database becomes more efficient",
+"D": "Embeddings are stored directly"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is the role of a “vector embedding” in vector search?",
+"options": {
+"A": "To represent unstructured data as dense numeric vectors for similarity search",
+"B": "To convert raw images into text",
+"C": "To improve database storage efficiency",
+"D": "To reduce the size of user queries"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Why is it important to maintain \"chunk overlap\" when splitting documents in the RAG pipeline?",
+"options": {
+"A": "To preserve important context across chunk boundaries, avoiding loss of critical information",
+"B": "To reduce the size of embeddings",
+"C": "To increase the storage capacity of the vector database",
+"D": "To allow multi-query retrievals"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is a key benefit of using vector databases in RAG applications?",
+"options": {
+"A": "They allow for fast, efficient similarity searches using embeddings instead of relying on traditional keyword search",
+"B": "They eliminate the need for RAG pipeline chunking",
+"C": "They provide storage for relational data alongside embeddings",
+"D": "They allow raw images and text to be stored directly without embeddings"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following enhances retrieval quality?",
+"options": {
+"A": "Larger chunk sizes",
+"B": "Re-ranking retrieved results based on context relevance",
+"C": "Embedding queries before retrieval",
+"D": "Adding metadata to raw documents"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+
+{
+"question": "What is grounding in the context of LLMs?",
+"options": {
+"A": "Limiting the output of the model",
+"B": "Ensuring model responses align with a specific knowledge base or truth",
+"C": "Making the model generate random responses",
+"D": "Setting up system prompts"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which API is commonly used for generating text completions in OpenAI’s GPT models?",
+"options": {
+"A": "Speech-to-Text API",
+"B": "ChatCompletion API",
+"C": "ImageProcessing API",
+"D": "DataQuery API"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is the function of a system message in ChatCompletion API?",
+"options": {
+"A": "To define the behavior of the AI assistant",
+"B": "To initiate user input",
+"C": "To store conversation history",
+"D": "To log API requests"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "What is one-shot prompting?",
+"options": {
+"A": "Providing zero examples before asking the model a question",
+"B": "Giving a single example before asking a question",
+"C": "Providing multiple examples before asking a question",
+"D": "Running the model multiple times on the same prompt"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following is a key factor in effective prompt engineering?",
+"options": {
+"A": "Using ambiguous language",
+"B": "Providing clear and structured instructions",
+"C": "Limiting context to one word",
+"D": "Avoiding system messages"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What does grounding help mitigate in LLM-based applications?",
+"options": {
+"A": "The computational cost of API calls",
+"B": "The risk of hallucinations and misinformation",
+"C": "The need for model training",
+"D": "The requirement for API keys"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What does setting the 'max_tokens' parameter in the ChatCompletion API do?",
+"options": {
+"A": "It determines the API response time",
+"B": "It sets the maximum length of the generated response",
+"C": "It adjusts the model's accuracy",
+"D": "It changes the model's knowledge base"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "How does setting a low temperature value (e.g., 0.2) affect the model’s output?",
+"options": {
+"A": "It makes the response more deterministic and less random",
+"B": "It increases response diversity",
+"C": "It has no effect on the model output",
+"D": "It disables token generation"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "How does increasing the temperature value (e.g., setting it to 1.0 or higher) affect the model’s output?",
+"options": {
+"A": "Makes responses more deterministic",
+"B": "Increases response randomness and creativity",
+"C": "Reduces the model’s knowledge",
+"D": "Speeds up token generation"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "A legal firm wants to deploy an AI chatbot for answering legal queries. However, the chatbot sometimes provides incorrect legal information. How can grounding be applied to fix this?",
+"options": {
+"A": "Increase the temperature so the chatbot provides more varied responses",
+"B": "Train the model on outdated legal documents",
+"C": "Implement retrieval-augmented generation (RAG) to reference verified legal documents before responding",
+"D": "Allow the chatbot to generate responses based on general knowledge"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "What is the main difference between stemming and lemmatization?",
+"options": {
+"A": "Stemming produces root forms that may not be real words, while lemmatization ensures valid words",
+"B": "Stemming uses machine learning, while lemmatization uses rule-based approaches",
+"C": "Lemmatization is always faster than stemming",
+"D": "Stemming requires labeled datasets, but lemmatization does not"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following is the first step in text preprocessing?",
+"options": {
+"A": "Named Entity Recognition",
+"B": "Tokenization",
+"C": "Part-of-Speech Tagging",
+"D": "Sentiment Analysis"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is the main purpose of stopword removal in NLP?",
+"options": {
+"A": "To reduce the dataset size",
+"B": "To remove irrelevant words that do not contribute to meaning",
+"C": "To improve model training speed",
+"D": "All of the above"
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "Which component in spaCy is responsible for Named Entity Recognition?",
+"options": {
+"A": "Tokenizer",
+"B": "NER Pipeline Component",
+"C": "Stopword Remover",
+"D": "Dependency Parser"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following best describes sentiment analysis?",
+"options": {
+"A": "Identifying the grammatical structure of a sentence",
+"B": "Classifying text into positive, negative, or neutral sentiments",
+"C": "Extracting named entities from text",
+"D": "Translating text into multiple languages"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following review statements is most likely to be classified as positive in sentiment analysis?",
+"options": {
+"A": "This product is terrible and not worth the money!",
+"B": "The delivery was late, but the product is decent.",
+"C": "I absolutely love this! Amazing experience!",
+"D": "The packaging was okay, nothing special."
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "What is the main purpose of POS tagging in NLP?",
+"options": {
+"A": "To identify the sentiment of a sentence",
+"B": "To determine the grammatical structure of a sentence",
+"C": "To extract named entities",
+"D": "To generate new text"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which of the following is an example of a word embedding model?",
+"options": {
+"A": "TF-IDF",
+"B": "Word2Vec",
+"C": "Bag of Words (BoW)",
+"D": "CountVectorizer"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "A data scientist is working on an NLP model to extract key phrases from customer reviews. However, words like 'running' and 'runs' appear multiple times, making it hard to analyze. What technique can help group them into their root form?",
+"options": {
+"A": "Stemming",
+"B": "Sentiment Analysis",
+"C": "Named Entity Recognition",
+"D": "POS Tagging"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which component of RAG is responsible for fetching relevant information before generating text?",
+"options": {
+"A": "Decoder",
+"B": "Tokenizer",
+"C": "Retriever",
+"D": "Embedding layer"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+
+{
+"question": "What are the steps needed to build this RAG application and deploy it?",
+"options": {
+"A": "Ingest documents from a source → Index the documents and saves to Vector Search → User submits queries against an LLM → LLM retrieves relevant documents → Evaluate model → LLM generates a response → Deploy it using Model Serving",
+"B": "Ingest documents from a source → Index the documents and save to Vector Search → User submits queries against an LLM → LLM retrieves relevant documents → LLM generates a response -> Evaluate model → Deploy it using Model Serving",
+"C": "Ingest documents from a source → Index the documents and save to Vector Search → Evaluate model → Deploy it using Model Serving",
+"D": "User submits queries against an LLM → Ingest documents from a source → Index the documents and save to Vector Search → LLM retrieves relevant documents → LLM generates a response → Evaluate model → Deploy it using Model Serving"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which metric should they monitor for their customer service LLM application in production?",
+"options": {
+"A": "Number of customer inquiries processed per unit of time",
+"B": "Energy usage per query",
+"C": "Final perplexity scores for the training of the model",
+"D": "HuggingFace Leaderboard values for the base LLM"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "How should the Generative AI Engineer architect their system?",
+"options": {
+"A": "Create a tool for finding available team members given project dates. Embed all project scopes into a vector store, perform a retrieval using team member profiles to find the best team member.",
+"B": "Create a tool for finding team member availability given project dates, and another tool that uses an LLM to extract keywords from project scopes. Iterate through available team members’ profiles and perform keyword matching to find the best available team member.",
+"C": "Create a tool to find available team members given project dates. Create a second tool that can calculate a similarity score for a combination of team member profile and the project scope. Iterate through the team members and rank by best score to select a team member.",
+"D": "Create a tool for finding available team members given project dates. Embed team profiles into a vector store and use the project scope and filtering to perform retrieval to find the available best matched team members."
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "Which tool below will give the platform access to real-time data for generating game analyses based on the latest game scores?",
+"options": {
+"A": "DatabricksIQ",
+"B": "Foundation Model APIs",
+"C": "Feature Serving",
+"D": "AutoML"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "Which Databricks feature should they use instead which will perform the same task?",
+"options": {
+"A": "Vector Search",
+"B": "Lakeview",
+"C": "DBSQL",
+"D": "Inference Tables"
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "Which action would be most effective in mitigating the problem of offensive text outputs?",
+"options": {
+"A": "Increase the frequency of upstream data updates",
+"B": "Inform the user of the expected RAG behavior",
+"C": "Restrict access to the data sources to a limited number of users",
+"D": "Curate upstream data properly that includes manual review before it is fed into the RAG system"
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "Which will fulfill their need?",
+"options": {
+"A": "context length 514; smallest model is 0.44GB and embedding dimension 768",
+"B": "context length 2048: smallest model is 11GB and embedding dimension 2560",
+"C": "context length 32768: smallest model is 14GB and embedding dimension 4096",
+"D": "context length 512: smallest model is 0.13GB and embedding dimension 384"
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "Which strategy would allow the startup to build a good-quality RAG application while being cost-conscious and able to cater to customer needs?",
+"options": {
+"A": "Limit the number of relevant documents available for the RAG application to retrieve from",
+"B": "Pick a smaller LLM that is domain-specific",
+"C": "Limit the number of queries a customer can send per day",
+"D": "Use the largest LLM possible because that gives the best performance for any general queries"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "Which change could the Generative AI Engineer perform to mitigate this issue?",
+"options": {
+"A": "Split the LLM output by newline characters to truncate away the summarization explanation.",
+"B": "Tune the chunk size of news articles or experiment with different embedding models.",
+"C": "Revisit their document ingestion logic, ensuring that the news articles are being ingested properly.",
+"D": "Provide few shot examples of desired output format to the system and/or user prompt."
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "What is the most suitable library for building a multi-step LLM-based workflow?",
+"options": {
+"A": "Pandas",
+"B": "TensorFlow",
+"C": "PySpark",
+"D": "LangChain"
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer interfaces with an LLM with prompt/response behavior that has been trained on customer calls inquiring about product availability. The LLM is designed to output “In Stock” if the product is available or only the term “Out of Stock” if not. Which prompt will work to allow the engineer to respond to classification labels correctly?",
+"options": {
+"A": "Respond with “In Stock” if the customer asks for a product.",
+"B": "You will be given a customer call transcript where the customer asks about product availability. The outputs are either “In Stock” or “Out of Stock”. Format the output in JSON, for example: {“call_id”: “123”, “label”: “In Stock”}.",
+"C": "Respond with “Out of Stock” if the customer asks for a product.",
+"D": "You will be given a customer call transcript where the customer inquires about product availability. Respond with “In Stock” if the product is available or “Out of Stock” if not."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer would like an LLM to generate formatted JSON from emails. This will require parsing and extracting the following information: order ID, date, and sender email. Which prompt will do that?",
+"options": {
+"A": "You will receive customer emails and need to extract date, sender email, and order ID. You should return the date, sender email, and order ID information in JSON format.",
+"B": "You will receive customer emails and need to extract date, sender email, and order ID. Return the extracted information in JSON format. Here’s an example: {“date”: “April 16, 2024”, “sender_email”: “sarah.lee925@gmail.com”, “order_id”: “RE987D”}",
+"C": "You will receive customer emails and need to extract date, sender email, and order ID. Return the extracted information in a human-readable format.",
+"D": "You will receive customer emails and need to extract date, sender email, and order IReturn the extracted information in JSON format."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer has been asked to build an LLM-based question-answering application. The application should take into account new documents that are frequently published. The engineer wants to build this application with the least cost and least development effort and have it operate at the lowest cost possible. Which combination of chaining components and configuration meets these requirements?",
+"options": {
+"A": "For the application a prompt, a retriever, and an LLM are required. The retriever output is inserted into the prompt which is given to the LLM to generate answers.",
+"B": "The LLM needs to be frequently with the new documents in order to provide most up-to-date answers.",
+"C": "For the question-answering application, prompt engineering and an LLM are required to generate answers.",
+"D": "For the application a prompt, an agent and a fine-tuned LLM are required. The agent is used by the LLM to retrieve relevant content that is inserted into the prompt which is given to the LLM to generate answers."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer is creating an agent-based LLM system for their favorite monster truck team. The system can answer text based questions about the monster truck team, lookup event dates via an API call, or query tables on the team’s latest standings. How could the Generative AI Engineer best design these capabilities into their system?",
+"options": {
+"A": "Ingest PDF documents about the monster truck team into a vector store and query it in a RAG architecture.",
+"B": "Write a system prompt for the agent listing available tools and bundle it into an agent system that runs a number of calls to solve a query.",
+"C": "Instruct the LLM to respond with “RAG”, “API”, or “TABLE” depending on the query, then use text parsing and conditional statements to resolve the query.",
+"D": "Build a system prompt with all possible event dates and table information in the system prompt. Use a RAG architecture to lookup generic text questions and otherwise leverage the information in the system prompt."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer has been asked to design an LLM-based application that accomplishes the following business objective: answer employee HR questions using HR PDF documentation. Which set of high level tasks should the Generative AI Engineer's system perform?",
+"options": {
+"A": "Calculate averaged embeddings for each HR document, compare embeddings to user query to find the best document. Pass the best document with the user query into an LLM with a large context window to generate a response to the employee.",
+"B": "Use an LLM to summarize HR documentation. Provide summaries of documentation and user query into an LLM with a large context window to generate a response to the user.",
+"C": "Create an interaction matrix of historical employee questions and HR documentation. Use ALS to factorize the matrix and create embeddings. Calculate the embeddings of new queries and use them to find the best HR documentation. Use an LLM to generate a response to the employee question based upon the documentation retrieved.",
+"D": "Split HR documentation into chunks and embed into a vector store. Use the employee question to retrieve best matched chunks of documentation, and use the LLM to generate a response to the employee based upon the documentation retrieved."
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer is tasked with deploying an application that takes advantage of a custom MLflow Pyfunc model to return some interim results. How should they configure the endpoint to pass the secrets and credentials?",
+"options": {
+"A": "Use spark.conf.set ()",
+"B": "Pass variables using the Databricks Feature Store API",
+"C": "Add credentials using environment variables",
+"D": "Pass the secrets in plain text"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer is developing an LLM application that users can use to generate personalized birthday poems based on their names. Which technique would be most effective in safeguarding the application, given the potential for malicious user inputs?",
+"options": {
+"A": "Implement a safety filter that detects any harmful inputs and ask the LLM to respond that it is unable to assist",
+"B": "Reduce the time that the users can interact with the LLM",
+"C": "Ask the LLM to remind the user that the input is malicious but continue the conversation with the user",
+"D": "Increase the amount of compute that powers the LLM to process input faster"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which indicator should be considered to evaluate the safety of the LLM outputs when qualitatively assessing LLM responses for a translation use case?",
+"options": {
+"A": "The ability to generate responses in code",
+"B": "The similarity to the previous language",
+"C": "The latency of the response and the length of text generated",
+"D": "The accuracy and relevance of the responses"
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer is developing a patient-facing healthcare-focused chatbot. If the patient’s question is not a medical emergency, the chatbot should solicit more information from the patient to pass to the doctor’s office and suggest a few relevant pre-approved medical articles for reading. If the patient’s question is urgent, direct the patient to calling their local emergency services. Given the following user input: “I have been experiencing severe headaches and dizziness for the past two days.” Which response is most appropriate for the chatbot to generate?",
+"options": {
+"A": "Here are a few relevant articles for your browsing. Let me know if you have questions after reading them.",
+"B": "Please call your local emergency services.",
+"C": "Headaches can be tough. Hope you feel better soon!",
+"D": "Please provide your age, recent activities, and any other symptoms you have noticed along with your headaches and dizziness."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer has been asked to build an LLM-based question-answering application. The application should take into account new documents that are frequently published. The engineer wants to build this application with the least cost and least development effort and have it operate at the lowest cost possible. Which combination of chaining components and configuration meets these requirements?",
+"options": {
+"A": "For the application a prompt, a retriever, and an LLM are required. The retriever output is inserted into the prompt which is given to the LLM to generate answers.",
+"B": "The LLM needs to be frequently with the new documents in order to provide most up-to-date answers.",
+"C": "For the question-answering application, prompt engineering and an LLM are required to generate answers.",
+"D": "For the application a prompt, an agent and a fine-tuned LLM are required. The agent is used by the LLM to retrieve relevant content that is inserted into the prompt which is given to the LLM to generate answers."
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer is building a system which will answer questions on latest stock news articles. Which will NOT help with ensuring the outputs are relevant to financial news?",
+"options": {
+"A": "Implement a comprehensive guardrail framework that includes policies for content filters tailored to the finance sector.",
+"B": "Increase the compute to improve processing speed of questions to allow greater relevancy analysis",
+"C": "Implement a profanity filter to screen out offensive language.",
+"D": "Incorporate manual reviews to correct any problematic outputs prior to sending to the users"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer is building a Generative AI system that suggests the best matched employee team member to newly scoped projects. The team member is selected from a very large team. The match should be based upon project date availability and how well their employee profile matches the project scope. Both the employee profile and project scope are unstructured text. How should the Generative AI Engineer architect their system?",
+"options": {
+"A": "Create a tool for finding available team members given project dates. Embed all project scopes into a vector store, perform a retrieval using team member profiles to find the best team member.",
+"B": "Create a tool for finding team member availability given project dates, and another tool that uses an LLM to extract keywords from project scopes. Iterate through available team members’ profiles and perform keyword matching to find the best available team member.",
+"C": "Create a tool to find available team members given project dates. Create a second tool that can calculate a similarity score for a combination of team member profile and the project scope. Iterate through the team members and rank by best score to select a team member.",
+"D": "Create a tool for finding available team members given project dates. Embed team profiles into a vector store and use the project scope and filtering to perform retrieval to find the available best matched team members."
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "Generative AI Engineer at an electronics company just deployed a RAG application for customers to ask questions about products that the company carries. However, they received feedback that the RAG response often returns information about an irrelevant product. What can the engineer do to improve the relevance of the RAG’s response?",
+"options": {
+"A": "Assess the quality of the retrieved context",
+"B": "Implement caching for frequently asked questions",
+"C": "Use a different LLM to improve the generated response",
+"D": "Use a different semantic similarity search algorithm"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer is using the code below to test setting up a vector store: Assuming they intend to use Databricks managed embeddings with the default embedding model, what should be the next logical function call?",
+"options": {
+"A": "vsc.get_index()",
+"B": "vsc.create_delta_sync_index()",
+"C": "vsc.create_direct_access_index()",
+"D": "vsc.similarity_search()"
+},
+"answer": "C",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer wants to build an LLM-based solution to help a restaurant improve its online customer experience with bookings by automatically handling common customer inquiries. The goal of the solution is to minimize escalations to human intervention and phone calls while maintaining a personalized interaction. Which input/output pair will support their goal?",
+"options": {
+"A": "Input: Online chat logs; Output: Group the chat logs by users, followed by summarizing each user’s interactions",
+"B": "Input: Online chat logs; Output: Buttons that represent choices for booking details",
+"C": "Input: Customer reviews; Output: Classify review sentiment",
+"D": "Input: Online chat logs; Output: Cancellation options"
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "What is an effective method to preprocess prompts using custom code before sending them to an LLM?",
+"options": {
+"A": "Directly modify the LLM’s internal architecture to include preprocessing steps",
+"B": "It is better not to introduce custom code to preprocess prompts as the LLM has not been trained with examples of the preprocessed prompts",
+"C": "Rather than preprocessing prompts, it’s more effective to postprocess the LLM outputs to align the outputs to desired outcomes",
+"D": "Write a MLflow PyFunc model that has a separate function to process the prompts"
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer is developing an LLM application that users can use to generate personalized birthday poems based on their names. Which technique would be most effective in safeguarding the application, given the potential for malicious user inputs?",
+"options": {
+"A": "Implement a safety filter that detects any harmful inputs and ask the LLM to respond that it is unable to assist",
+"B": "Reduce the time that the users can interact with the LLM",
+"C": "Ask the LLM to remind the user that the input is malicious but continue the conversation with the user",
+"D": "Increase the amount of compute that powers the LLM to process input faster"
+},
+"answer": "A",
+"question_type": "mcq"
+},
+{
+"question": "Which indicator should be considered to evaluate the safety of the LLM outputs when qualitatively assessing LLM responses for a translation use case?",
+"options": {
+"A": "The ability to generate responses in code",
+"B": "The similarity to the previous language",
+"C": "The latency of the response and the length of text generated",
+"D": "The accuracy and relevance of the responses"
+},
+"answer": "D",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer has created a RAG application which can help employees retrieve answers from an internal knowledge base, such as Confluence pages or Google Drive. The prototype application is now working with some positive feedback from internal company testers. Now the Generative AI Engineer wants to formally evaluate the system’s performance and understand where to focus their efforts to further improve the system. How should the Generative AI Engineer evaluate the system?",
+"options": {
+"A": "Use cosine similarity score to comprehensively evaluate the quality of the final generated answers.",
+"B": "Curate a dataset that can test the retrieval and generation components of the system separately. Use MLflow’s built in evaluation metrics to perform the evaluation on the retrieval and generation components.",
+"C": "Benchmark multiple LLMs with the same data and pick the best LLM for the job.",
+"D": "Use an LLM-as-a-judge to evaluate the quality of the final answers generated."
+},
+"answer": "B",
+"question_type": "mcq"
+},
+{
+"question": "A Generative AI Engineer has already trained an LLM on Databricks and it is now ready to be deployed. Which of the following steps correctly outlines the easiest process for deploying a model on Databricks?",
+"options": {
+"A": "Log the model as a pickle object, upload the object to Unity Catalog Volume, register it to Unity Catalog using MLflow, and start a serving endpoint",
+"B": "Log the model using MLflow during training, directly register the model to Unity Catalog using the MLflow API, and start a serving endpoint",
+"C": "Save the model along with its dependencies in a local directory, build the Docker image, and run the Docker container",
+"D": "Wrap the LLM’s prediction function into a Flask application and serve using Gunicorn"
+},
+"answer": "B",
+"question_type": "mcq"
+}
+]
+
+
+
+
